@@ -331,7 +331,7 @@ button {
   transition-property: color;
   box-shadow: 4px 4px 5.5px #131417;
   display: flex;
-    
+  transition: 0.5s;  
 }
 
 button:focus,
